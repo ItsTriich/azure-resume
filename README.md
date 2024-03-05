@@ -5,4 +5,4 @@ My own azure resume following [ACG project video.](https://www.youtube.com/watch
 ## First Steps
 
 - Frontend folder contains the website.
-- main.js contains vistor counter code.
+- Currently developing the backend.
